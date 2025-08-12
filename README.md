@@ -1,3 +1,8 @@
+![Kapilnath](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Kapilnath&fontAlign=53&fontAlignY=51&animation=twinkling&fontColor=ffffff)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=21&pause=1000&color=00E7FF&background=FFFFFF00&center=true&vCenter=true&width=650&lines=Java+%26+Python+Developer+%7C+AWS+Cloud;DSA+%26+Machine+Learning;Web+Development+%7C+FinTech+%7C+Computer+Vision;Open+to+Collaborations+%26+Opportunities)
+
+
+
 # 💫 About Me:
 🛰️ I’m currently working on<br>An AI-based stock prediction system using ML/DL models (Linear Regression, Random Forest, LSTM, etc.), and a AIML Powered Rash Driving Detector for Public Welfare.<br><br>👯 I’m looking to collaborate on<br>Hackathons, machine learning research, full-stack web development, and UI/UX design projects.<br><br>🤝 I’m looking for help with<br>Improving model accuracy for real-time predictions and deploying ML models in production.<br><br>🌱 I’m currently learning<br>Java, Advanced DSA, Cloud Computing and Spring Boot.<br><br>💬 Ask me about<br>Python, Django, React , Supabase Auth, Figma, and AI integration.<br><br>⚡ Fun fact<br>I once ran a Figma workshop that stood out with a unique interactive approach—people still talk about it
 
